@@ -150,6 +150,7 @@ Pastikan semuanya bekerja dengan benar dengan memeriksa halaman statistik:
 
 - [Statistik eksekusi](https://stats.execution.l16.lukso.network/)
 - [Statistik konsensus](https://stats.consensus.l16.lukso.network/)
+
 Anda juga dapat memeriksa [log](https://docs.lukso.tech/networks/l16-testnet/logs-stats-monitoring) Anda .
 
 
